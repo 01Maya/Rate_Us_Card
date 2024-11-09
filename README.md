@@ -29,6 +29,9 @@ This is a simple, interactive "Rate Us" card created using HTML, CSS, and JavaSc
 ## Screenshots
 
 
+![ui1](https://github.com/user-attachments/assets/d2f9602d-9639-42d8-a8cc-20d41e355359)
+![ui2](https://github.com/user-attachments/assets/96c1cf3f-b801-4124-b592-514c5ef7a8d5)
+
 
 
 
